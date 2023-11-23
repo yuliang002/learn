@@ -58,7 +58,7 @@
         <fastjson.version>1.2.44</fastjson.version>
         <hutool.version>5.5.2</hutool.version>
         <lcn.last.version>4.1.0</lcn.last.version>
-        <spring.boot.redis.version>2.2.7.RELEASE</spring.boot.redis.version>
+        <spring.boot.redis.version>3.1.6</spring.boot.redis.version>
         <redisson.version>3.11.0</redisson.version>
         <guava.version>27.1-jre</guava.version>
         <netty.all.version>4.1.42.Final</netty.all.version>
